@@ -135,6 +135,8 @@ p.text{
     width: 100%;
   }
 }
+
+
 @media (max-width: 767px){
   .col-sm-11 {
     float: left;
