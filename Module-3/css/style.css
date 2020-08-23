@@ -1,0 +1,18 @@
+@media (min-width: 768px) {
+   #menu {
+        display: none;
+   }
+}
+#navmenu {
+	position: relative;
+	background-color: #A89AD3 ;
+}
+h1 {
+	position:relative;
+	color:#3790F3 ;
+}
+#main-content{
+	color:white;
+	background-color: #130442 ;
+	padding:20px;
+}
