@@ -7,6 +7,10 @@
 	position: relative;
 	background-color: #A89AD3 ;
 }
+.navbar-toggler{
+	position: absolute;
+	right:10px;
+}
 h1 {
 	position:relative;
 	color:#3790F3 ;
